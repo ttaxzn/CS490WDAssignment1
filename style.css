@@ -1,0 +1,58 @@
+.image {
+  width: 150px;
+  padding-left: 1%;
+}
+
+.image1 {
+  width: 40%;
+}
+
+.about {
+  padding-top: 3%;
+  padding-left: 2%;
+}
+
+.listimg {
+  padding-top: 5%;
+  list-style: none;
+}
+
+.login {
+  border: 1px solid black;
+  width: 30%;
+  padding: 2%;
+  border-radius: 10px;
+}
+
+.pi {
+  border: 1px solid black;
+  width: 30%;
+  padding: 2%;
+  border-radius: 10px;
+}
+
+.submit {
+  width: 30%;
+  padding-top: 1%;
+  padding-left: 13%;
+}
+
+.first {
+  padding-top: 1%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+.titlepadding {
+  padding-bottom: 3%;
+  font-weight: bold;
+}
+
+.submitbutton{
+    width: 100px;
+    height: 40px;
+}
+
